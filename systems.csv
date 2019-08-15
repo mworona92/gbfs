@@ -22,6 +22,9 @@ CA,BIXI-Montreal,"Montreal, QC",Bixi_MTL,https://www.bixi.com/,https://api-core.
 CA,Mobi Bike Share,"Vancouver, BC",mobi_bikes,https://www.mobibikes.ca/,https://vancouver-gbfs.smoove.pro/gbfs/gbfs.json
 CA,nextbike Canada,"Victoria, CA",nextbike_ca,https://canada.nextbike.net/,https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_ca/gbfs.json
 CA,Sobi Hamilton,Hamilton Ontario,sobi_hamilton,https://hamilton.socialbicycles.com/,https://hamilton.socialbicycles.com/opendata/gbfs.json
+CA,OGO,Kelowna British Columbia,https://us-dashboard.segway.pt/gbfs/partners/v1/Segway%20OGO/gbfs.json
+CA,Bunny,Kelowna British Columbia,https://bunny-api.joyridecity.bike//gbfs/en/gbfs.json?operator_id=23
+CA,ZIP,Kelowna Briitish Columbia,https://zip-api.joyridecity.bike/gbfs/en/gbfs.json?operator_id=2
 CH,nextbike Switzerland,"CH",nextbike_ch,https://www.nextbike.ch/xx/sursee/,https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_ch/gbfs.json
 CY,nextbike Cyprus,"CY",nextbike_cy,https://www.nextbike.com.cy/xx/limassol/,https://gbfs.nextbike.net/maps/gbfs/v1/nextbike_cy/gbfs.json
 CY,Velespeed,"Nicosia, CY",velespeed,https://en.velespeed.net/,https://nicosia.publicbikesystem.net/ube/gbfs/v1/
